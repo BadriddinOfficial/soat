@@ -3,8 +3,8 @@ from pyrogram.api import functions
 import datetime
 import time
 import pytz
-api_id = apiid #my.telegram.org dan olgan apiidni qoying
-api_hash = "Apihash" #my.telegram.org dan olgan apihash ni qoying
+api_id = 18977021 #my.telegram.org dan olgan apiidni qoying
+api_hash = "668c3af8ca3689e5720b7c15f4b99894" #my.telegram.org dan olgan apihash ni qoying
 app = Client("my_account",api_id,api_hash)
 app.start()
 while True:
