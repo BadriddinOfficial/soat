@@ -1,1 +1,1 @@
-admin: t.me/tilon
+admin: t.me/Badriddin_Savriyev
